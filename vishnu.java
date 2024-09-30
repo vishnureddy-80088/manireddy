@@ -18,3 +18,5 @@ class FibonacciExample2{
 
 
 https://github.com/Cohesity2022/certified-kubernetes-administrator/tree/main/Cluster%20Setup
+
+discovery-token-ca-cert-hash sha256:6053682078c3f65735a341c81c11ab533fc28795f2cec3a8c9152fd6c8288485
